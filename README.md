@@ -6,11 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I Developed a Weather App with Flutter! ☀️🌡️
+Today I want to talk about an exciting project of mine! I have completed my weather app using Flutter. 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In this project, I used the Dio library to pull weather data from a website's API. After successfully pulling the data from the API in JSON format, I used Card widgets to present this information in a user-friendly interface.
+During this process, I had the opportunity to get to know the powerful structure of Flutter more closely and improved myself in API integration and data visualization.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am very happy about this experience, which also motivates me for my future projects and contributes to my learning process.
+
+If you would like to get more information about my project or give feedback, please feel free!
+#Flutter #AppDevelopment #API #JSON #Dart
